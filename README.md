@@ -18,8 +18,8 @@ A simple video chat application built using HTML, CSS, and JavaScript, utilizing
 ### Steps
 1. Download or clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/xenon1919/Videochat-Website/tree/main
+   cd VIDEOCHAT WEBSITE
    ```
 
 2. Replace the Agora configuration in `script.js` with your own:
